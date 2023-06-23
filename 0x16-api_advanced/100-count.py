@@ -1,4 +1,5 @@
-cript for counting hot terms on subreddits"""
+#!/usr/bin/python3
+"""A script for counting hot terms on subreddits"""
 import requests
 
 
